@@ -1,5 +1,3 @@
-// Test edit 2
-
 var ADJECTIVES = [
     'Abrasive', 'Brash', 'Callous', 'Daft', 'Eccentric', 'Fiesty', 'Golden',
     'Holy', 'Ignominious', 'Joltin', 'Killer', 'Luscious', 'Mushy', 'Nasty',
