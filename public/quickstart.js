@@ -1,4 +1,4 @@
-﻿$(function () {
+$(function () {
   log('Requesting Capability Token...');
   $.getJSON('/token')
     .done(function (data) {
