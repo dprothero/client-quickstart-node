@@ -4,6 +4,8 @@ var twilio = require('twilio');
 var express = require('express');
 var bodyParser = require('body-parser');
 var randomUsername = require('./randos');
+
+// Be sure to copy the config.sample.js to config.js and update the settings
 var config = require('./config');
 
 // Create Express webapp
